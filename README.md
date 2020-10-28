@@ -1,15 +1,14 @@
 # Object Oriented Ruby - Initialize
 
-## Today's Goals
+## Today's Goals:
 
-## Understand how the .new method works
-## Explain when the initialize method is invoked
-## Understand how to most effectively use the initialize method
-## Utilize different ways to assign object properties
-## Gain a deeper understanding of the .send method
+- Understand how the .new method works
+- Explain when the initialize method is invoked
+- Understand how to most effectively use the initialize method
+- Utilize different ways to assign object properties
+- Gain a deeper understanding of the .send method
 
 ## Be able to answer the following questions:
-
 
 -  what type of method is .new?
 -  how can we tell?
